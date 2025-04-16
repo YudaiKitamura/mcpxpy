@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mcpxpy"
+version = "0.0.0"
+description = "MC protocol for Mitsubishi PLC (Python binding for McpX)"
+authors = [
+  { name = "Yudai Kitamura", email = "you@example.com" }
+]
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.7"
+
+dependencies = [
+  "requests"
+]
+
+[project.urls]
+Homepage = "https://github.com/YudaiKitamura/mcpxpy"
+Repository = "https://github.com/YudaiKitamura/mcpxpy"
+Documentation = "https://github.com/YudaiKitamura/mcpxpy#readme"
+Issues = "https://github.com/YudaiKitamura/mcpxpy/issues"

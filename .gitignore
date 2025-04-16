@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+*.dylib
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+ENV/
+
+# Package builds
+build/
+dist/
+*.egg-info/
+*.egg
+
+# PyInstaller / cx_Freeze output
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+mcpxpy/.cache/
