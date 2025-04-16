@@ -21,7 +21,7 @@ powered by Ahead-of-Time (AOT) compiled shared libraries (`.so` / `.dll`) using 
 ## Installation
 ### PyPI
 ```sh
-pip install mcpxpy
+pip install -i https://test.pypi.org/simple/ mcpxpy
 ```
 
 ## Example Usage 
