@@ -7,7 +7,7 @@ name = "mcpxpy"
 version = "0.0.0"
 description = "MC protocol for Mitsubishi PLC (Python binding for McpX)"
 authors = [
-  { name = "Yudai Kitamura", email = "you@example.com" }
+  { name = "Yudai Kitamura", email = "y.Kitamura.eng@gmail.com" }
 ]
 readme = "README.md"
 license = { text = "MIT" }
